@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\bin\Debug\netcoreapp3.1\exercises-collections.exe
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\bin\Debug\netcoreapp3.1\exercises-collections.deps.json
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\bin\Debug\netcoreapp3.1\exercises-collections.runtimeconfig.json
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\bin\Debug\netcoreapp3.1\exercises-collections.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\bin\Debug\netcoreapp3.1\exercises-collections.dll
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\bin\Debug\netcoreapp3.1\exercises-collections.pdb
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\obj\Debug\netcoreapp3.1\exercises-collections.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\obj\Debug\netcoreapp3.1\exercises-collections.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\obj\Debug\netcoreapp3.1\exercises-collections.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\obj\Debug\netcoreapp3.1\exercises-collections.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\obj\Debug\netcoreapp3.1\exercises-collections.dll
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\obj\Debug\netcoreapp3.1\exercises-collections.pdb
+C:\Users\Farrukh\source\repos\exercises-collections\exercises-collections\obj\Debug\netcoreapp3.1\exercises-collections.genruntimeconfig.cache
